@@ -1,2 +1,2 @@
 # curso-java-seng
-Exercicios e projetos do curso de engenheiro backend java
+Exercicios do curso de engenheiro backend java
